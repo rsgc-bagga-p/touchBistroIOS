@@ -14,12 +14,13 @@ Attempted:
 Not Attempted: 
   - Editing entries
   - UI constraints
+  - Automated tests (was only going to attempt if above items were all working)
 
 Features:
   - Collectionview with nicely desinged cells
   - Data model with relationships
 
-Notes for Testing:
+Notes for Running the Program:
   - App fully runs, use iPhone 7 to simulate for the best results
   - Currently pressing on the cells in the group menu collection view will break the program, there are issues with fetching
   - The plus button will open a menu where you can add things to core data
